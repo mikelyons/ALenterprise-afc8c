@@ -1,8 +1,7 @@
-# Astro Netlify Sanity Starter
 
-![Astro Netlify Sanity Starter](https://assets.stackbit.com/docs/astro-sanity-starter-thumb.jpg)
+# AL Enterprise
 
-[Live Demo](https://astro-sanity-starter-demo.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b46c6f98-8064-4465-ae1e-5e4f3f087c7f/deploy-status)](https://app.netlify.com/projects/alenterprise/deploys)
 
 Netlify Astro and Sanity minimal starter with [visual editing](https://docs.netlify.com/visual-editor/overview/).
 
